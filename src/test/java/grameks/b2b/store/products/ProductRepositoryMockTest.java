@@ -12,7 +12,7 @@ import java.util.Date;
 import java.util.List;
 
 @DataJpaTest
-public class productRepositoryMockTest {
+public class ProductRepositoryMockTest {
 
     @Autowired
     private ProductRepository productRepository;
